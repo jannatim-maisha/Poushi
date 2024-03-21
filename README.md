@@ -1,4 +1,4 @@
-### Hi there stranger 👋 I'm Poushi 👨‍💻
+### Hi there stranger 👋 I'm Jannatim Maisha (Poushi) 👨‍💻
 💬 "Die with memories not dreams <3" 
 
 <!--
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 </a> <a href="https://www.linkedin.com/in/jannatim-maisha-a464b41a0/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
+
+![4223cf9120369eea473fcf3565c4e676](https://github.com/Poushi/Poushi/assets/65887747/12b575f3-80d1-4961-b020-aa012e873c4a)
 
 <details>
   <summary>📃 Resume</summary>
