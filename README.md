@@ -1,6 +1,10 @@
 ### Hi there stranger 👋 I'm Jannatim Maisha (Poushi) 👨‍💻
 💬 "Die with memories not dreams <3" 
 
+[![Poushi's Portfolio 1](https://img.shields.io/badge/Portfolio_1-threejs_JM-9cf)](https://poushi.github.io/Portfolio_threejs_JM/)
+[![Poushi's Portfolio 2](https://img.shields.io/badge/Portfolio_2-CSS_HTML_JS-blueviolet)](https://poushi.github.io/JannatimMaisha/)  
+<img align="right" src="https://github.com/Poushi/Poushi/assets/65887747/a26436bc-6ea8-4fe6-885f-7b0a1ba1b348" alt="Teacher GIF" width="100">
+
 <!--
 **Poushi/Poushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
